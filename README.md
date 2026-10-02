@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Maria!
 
-<!--
-**maria-lavrinenko/maria-lavrinenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Functional Tester fluent in four languages — bridging user needs, technical understanding and operational reliability
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Functional Testing
+- Regression Testing
+- Exploratory Testing
+- Jira
+- Postman
+- Cypress
+- Git/GitHub
+- JSON Analysis
+ 
+## Current Learning
+- Test Automation with Cypress
+- API Testing
+- SQL
+ 
+## Portfolio Projects
+
+### QA Test Documentation
+Test Plans, Test Cases and Traceability Matrices
+ 
+### Bug Reporting Portfolio
+Realistic Jira-style bug reports
+ 
+### Postman API Testing
+Collections and API test scenarios
+ 
+### Cypress Automation
+UI automation examples
+ 
+## Contact
+[LinkedIn profile](https://www.linkedin.com/in/maria-lavrinenko)
+
+[Email me](mailto:marylavrinenko@gmail.com)
